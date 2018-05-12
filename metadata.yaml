@@ -1,0 +1,59 @@
+_repo: A-Greek-English-Lexicon-To-The-New-Testament_40935
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Hastings, H. L. (Horace Lorenzo)
+    alias: Hastings, Horace Lorenzo
+    birthdate: &id001 1831
+    deathdate: 1899
+    gutenberg_agent_id: '43607'
+    url: http://www.gutenberg.org/2009/agents/43607
+  contributors:
+  - agent_name: Green, Thomas Sheldon
+    birthdate: 1803
+    deathdate: 1876
+    gutenberg_agent_id: '40904'
+    url: http://www.gutenberg.org/2009/agents/40904
+  - agent_name: Thayer, Joseph Henry
+    aliases:
+    - Thayer, J. H. (Joseph Henry)
+    - Thayer, J. Henry (Joseph Henry)
+    birthdate: 1828
+    deathdate: 1901
+    gutenberg_agent_id: '42275'
+    url: http://www.gutenberg.org/2009/agents/42275
+  - agent_name: Stearns, Wallace N. (Wallace Nelson)
+    alias: Stearns, Wallace Nelson
+    birthdate: 1866
+    gutenberg_agent_id: '39944'
+    url: http://www.gutenberg.org/2009/agents/39944
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Greenfield, William
+    alias: Greenfield, Gulielmus
+    birthdate: 1799
+    deathdate: *id001
+    gutenberg_agent_id: '40912'
+    url: http://www.gutenberg.org/2009/agents/40912
+    wikipedia: http://en.wikipedia.org/wiki/William_Greenfield_(philologist)
+description: ''
+gutenberg_issued: '2012-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40935'
+  lccn: '10028446'
+language:
+- en
+- el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Greek language, Biblical -- Dictionaries -- English'
+- !lcsh 'Bible. New Testament -- Dictionaries -- English'
+title: A Greek-English Lexicon to the New Testament
+url: http://www.gutenberg.org/ebooks/40935
