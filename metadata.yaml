@@ -4,7 +4,7 @@ contributor:
   author_of_introduction:
     agent_name: Hastings, H. L. (Horace Lorenzo)
     alias: Hastings, Horace Lorenzo
-    birthdate: &id001 1831
+    birthdate: 1831
     deathdate: 1899
     gutenberg_agent_id: '43607'
     url: http://www.gutenberg.org/2009/agents/43607
@@ -35,11 +35,13 @@ creator:
     agent_name: Greenfield, William
     alias: Greenfield, Gulielmus
     birthdate: 1799
-    deathdate: *id001
+    deathdate: 1831
     gutenberg_agent_id: '40912'
     url: http://www.gutenberg.org/2009/agents/40912
     wikipedia: http://en.wikipedia.org/wiki/William_Greenfield_(philologist)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40935#A-Greek-English-Lexicon-To-The-New-Testament
 gutenberg_issued: '2012-10-04'
 gutenberg_type: Text
 identifiers:
